@@ -3,10 +3,10 @@
 I'm Mesalina, after having trained in @Adalab as a Front-end Developer, I present myself to show you my work, 👀 offer myself for any collaboration and mainly ... To continue learning!!!✨
 
 - 🔭 I’m currently working on creating new websites.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... 
 - 👯 I’m looking to collaborate on projects.
 - 💬 Ask me about my repos, I'll be glad to be in tounch with you!
-- 📫 How to reach me: https://twitter.com/mebrapu
+- 📫 How to reach me: https://twitter.com/mebrapu or https://www.linkedin.com/in/mebrapu
 
 ## Tech Stack: ![technical-support_icon-icons com_52812 (1)](https://user-images.githubusercontent.com/87035009/139451650-617bfe5e-09fd-4cc5-90fe-ebcecbcc24e8.png)
 
