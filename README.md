@@ -1,9 +1,9 @@
 ### Front-end Developer 👋
 
-I'm Mesalina, after having trained in @Adalab as a Front-end Developer, I present myself to show you my work, 👀 offer myself for any collaboration and mainly ... To continue learning!!!✨
+I'm Mesalina, after having trained in @Adalab as a Front-end Developer, I introduce myself to show you my work, 👀 offer myself for any collaboration and mainly ... To continue improving!!!✨
 
 - 🔭 I’m currently working on creating new websites.
-- 🌱 I’m currently learning ... 
+- 🌱 I’m currently learning....
 - 👯 I’m looking to collaborate on projects.
 - 💬 Ask me about my repos, I'll be glad to be in tounch with you!
 - 📫 How to reach me: https://twitter.com/mebrapu or https://www.linkedin.com/in/mebrapu
